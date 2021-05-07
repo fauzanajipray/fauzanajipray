@@ -1,10 +1,8 @@
-### Hi there 👋
-
-<!--
-**fauzanajipray/fauzanajipray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hello Everyone](https://i.ibb.co/GVm5YKr/1500x500.jpg)
 
 - 🤗 Hi, I'm Fauzan Aji Prayoga
 - 🌱 I’m currently learning Kotlin, Javascript, React.js
 - 👯 I’m looking to collaborate on Android Developer
-- 📫 How to reach me? just get in touch at fauzan.a.pray@gmail.com 😁
--->
+- 📫 Get in touch with me at fauzan.a.pray@gmail.com
+
+Cheers 😄✌

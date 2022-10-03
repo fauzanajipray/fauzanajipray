@@ -7,7 +7,7 @@ Cheers 😄✌
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/sempatpanick">
+<a href="https://github.com/fauzanajipray">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fauzanajipray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzanajipray&layout=compact&langs_count=8&theme=algolia"/>
 </a>
